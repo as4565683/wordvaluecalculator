@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Valor da Palavra</string>
+    <string name="action_settings">Configurações</string>
+    <string name="wordvalue_hint">Digite a palavra para a qual você precisa o valor:</string>
+    <string name="wordvalue_title">Valor da Palavra = </string>
+    <string name="quickhelp">Um valor da Palavra é a soma de todas as letras:\n\na=1, b=2, ... z=26\n1=1, 2=2, ... 9=9\nä=27, ö=28, ü=29, ß=30\n\nTodos os outros caracteres são ignorados. Não diferencia maiúsculas de minúsculas.</string>
+</resources>
